@@ -21,7 +21,7 @@
 
 
 
-**WINNER: Random Forest **
+**WINNER: Random Forest**
 
  Accuracy: 98 % | Recall: 79% | Precision: 83% | f1: 81 % on USER INFO
  
