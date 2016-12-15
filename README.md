@@ -1,12 +1,12 @@
 # Yelp Elite User Prediction 
 
-<https://www.yelp.com/dataset_challenge>
 
-Goal: Trying to predict user status basing on user information and review texts 
+# Goal: Trying to predict user status basing on user information and review texts 
 
-----
-Data Structure:
+---------------------------------------------------------------------------------------------------------------------------------------------
+**Data Structure:**
 
+Data Source : <https://www.yelp.com/dataset_challenge>
 
 **Business:**
 ```js
