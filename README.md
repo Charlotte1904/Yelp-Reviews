@@ -1,8 +1,8 @@
-# YELP DATASET CHALLENGE
+# Yelp Elite User Prediction 
 
 <https://www.yelp.com/dataset_challenge>
 
-Goal: Using user's information to improve restaurant quality 
+Goal: Trying to predict user status basing on user information and review texts 
 
 ----
 Data Structure:
