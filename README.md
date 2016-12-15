@@ -1,7 +1,32 @@
 # Yelp Elite User Prediction 
 
 
-# Goal: Trying to predict user status basing on user information and review texts 
+### Goal: Trying to predict user status basing on user information and review texts 
+
+**Algorithms:**
+
+-Logistic Regression
+
+-Random Forest
+
+-Gradient Boosting
+
+-AdaBoost Classifier
+
+-Support vector machines
+
+-MultinomialNB
+
+** Metrics Evaluation**
+
+
+
+** WINNER: Random Forest **
+ Accuracy: 98 % | Recall: 79% | Precision: 83% | f1: 81 % on USER INFO
+Accuracy: 79% | Recall: 28%| Precision: 60% | f1: 39%
+ 
+ 
+ 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 **Data Structure:**
