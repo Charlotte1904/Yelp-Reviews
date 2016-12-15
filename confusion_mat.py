@@ -1,3 +1,4 @@
+
 def show_confusion_matrix(C,class_labels=['0','1']):
     """
     C: ndarray, shape (2,2) as given by scikit-learn confusion_matrix function
@@ -108,14 +109,7 @@ def show_confusion_matrix(C,class_labels=['0','1']):
     plt.show()
 
 
-def plot_roc(y_test, pred_test):
-    fpr, tpr, _= roc_curve(y_test, pred_test)
-    roc_auc = auc(fpr,tpr)
-    plt.plot(fpr,tpr, label = 'area %.2f' %roc_auc)
-    plt.plot(np.linspace(0,1,10),np.linspace(0,1,10))
-    plt.xlim([-0.05,1.05])
-    plt.ylim([-0.05,1.05])
-    plt.legend(loc = 'lower right')
+
 
 
 
