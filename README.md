@@ -1,21 +1,37 @@
-# Yelp Elite User Prediction 
+# <center> PROJECT  OBJECTIVES <center>
+
+Yelp has a secret society, Yelp Elite. Elite members bear special badges on their Yelp profiles, and they're invited to private events where up-and-coming restaurants and bars provide food and drinks for free.
+
+However, Yelp is very mysterious in terms of how the company grants a reviewer Elite status. To satisfy community members curiosity, this project aims to use Machine Learning to uncover the secrets of Elite Squad Council and generates a checklist for aspring Elite users. 
+
+In my discovery, Yelp is very strategic in its decision-making process. Users need to create high-quality, reliable reviews and direct traffic to the site in order to qualify for the membership. 
 
 
-### Goal: Trying to predict user status basing on user information and review texts 
+Features Importance Order
+ 1) votes_useful                   0.167500
+ 2) compliments                    0.165000
+ 3) votes_cool                     0.157500
+ 4) votes_funny                    0.135000
+ 5) review_count                   0.086250
+ 6) average_stars                  0.083750
+ 7) n_friends                      0.080000
+ 8) yelping_period                 0.053750
+ 9) fans                           0.051250
+10) tip_count                      0.020000
 
 **Algorithms:**
 
--Logistic Regression
+- Logistic Regression
 
--Random Forest
+- Random Forest
 
--Gradient Boosting
+- Gradient Boosting
 
--AdaBoost Classifier
+- AdaBoost Classifier
 
--Support vector machines
+- Support vector machines
 
--MultinomialNB
+- MultinomialNB
 
 **Metrics Evaluation**
 
