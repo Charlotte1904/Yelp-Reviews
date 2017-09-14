@@ -4,10 +4,11 @@ Yelp has a secret society, Yelp Elite. Elite members bear special badges on thei
 
 However, Yelp is very mysterious in terms of how the company grants a reviewer Elite status. To satisfy community members curiosity, this project aims to use Machine Learning to uncover the secrets of Elite Squad Council and generates a checklist for aspring Elite users. 
 
-In my discovery, Yelp is very strategic in its decision-making process. Users need to create high-quality, reliable reviews and direct traffic to the site in order to qualify for the membership. 
+In my discovery, Yelp is very strategic in its decision-making process. Users need to create high-quality, reliable reviews and direct traffic to the site in order to qualify for the membership.  
+As you can see, votes and compliments ranked higher than review counts and other attributes indicate that Yelp value activities or time on sites heavily when considering for Elite Status, which is a good method to incentivize user engagement on Yelp Website.
 
 
-Features Importance Order
+**THE CHECKLIST**
  1) votes_useful                   0.167500
  2) compliments                    0.165000
  3) votes_cool                     0.157500
